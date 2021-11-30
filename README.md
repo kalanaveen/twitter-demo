@@ -1,3 +1,31 @@
+Build a twitter clone with powerfull technoligies like Next.js,Tailwind Css,Recoil,Next Auth beta version,headless ui.
+In this application we can post a photo with caption and smileys,delete a photo,like a post ,comment a post also can delete a post.
+We have google authentication for login.
+
+
+Key Features
+    
+    Post a photo with caption.
+    Delete a photo.
+    Like a post,comment post and delete post.
+    Time stamp show when posted.
+    Fully responsive with help of tailwind css.
+    Signin functionaity with powerfull next auth beta version.
+    Recoil used for state management.
+    Headless ui used for comment section and signout section.
+    
+    
+Key Technologies
+
+    React.js
+    Next.js
+    Tailwind css
+    Headless ui
+    Recoil
+    Next-auth beta
+    Heroicons.
+    
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).

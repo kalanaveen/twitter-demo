@@ -2,6 +2,13 @@ Build a twitter clone with powerfull technoligies like Next.js,Tailwind Css,Reco
 In this application we can post a photo with caption and smileys,delete a photo,like a post ,comment a post also can delete a post.
 We have google authentication for login.
 
+home page
+
+![image](https://user-images.githubusercontent.com/34640475/143994092-166cb4cf-4668-4ed5-8aa8-5c9495964276.png)
+
+post page
+
+![image](https://user-images.githubusercontent.com/34640475/143994233-8d6ef4bf-29ac-4a90-9062-c73bcfc8d3d9.png)
 
 Key Features
     
